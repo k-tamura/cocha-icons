@@ -1,6 +1,6 @@
 # Cocha Icons
 
-The **CO**mmon **CHA**racteristics icons. Feel free to use.
+The **CO**mmon **CHA**racteristic icons. Feel free to use.
 
 ![sample](https://github.com/k-tamura/cocha-icons/blob/master/sample.png)
 
