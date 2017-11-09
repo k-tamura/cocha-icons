@@ -8,7 +8,7 @@ Please add the following code to your page if using the icons.
 
  - Markdown
 ```
-[![mark.png](https://github.com/k-tamura/cocha-icons/blob/master/mark.png)](https://github.com/k-tamura/cocha-icons)
+[![mark.png](https://github.com/k-tamura/cocha-icons/raw/master/mark.png)](https://github.com/k-tamura/cocha-icons)
 ```
 
  - HTML
