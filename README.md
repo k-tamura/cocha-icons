@@ -1,4 +1,4 @@
-# Cocha Icons
+# Cocha Icons     ![movie](https://github.com/k-tamura/test/blob/master/fake-hacker3.gif)
 
 The **CO**mmon **CHA**racteristic icons. Feel free to use.
 
@@ -22,4 +22,3 @@ Please add the following code to your page if using the icons.
 
 ----
 
-![movie](https://github.com/k-tamura/test/blob/master/bukatsu.gif)
